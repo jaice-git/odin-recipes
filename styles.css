@@ -9,3 +9,8 @@
 .link {
     color: black;
 }
+
+.picture {
+    width: 300px;
+    height: auto;
+}
